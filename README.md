@@ -12,14 +12,12 @@ In this application, a user can apply for becoming a seller and after becoming a
 ## Screenshots
 
 <p>
-  
-
-<img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/Screenshot_2023_0227_085326.jpg" width="300px" height="auto">
-<img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/Screenshot_2023_0227_085343.jpg" width="300px" height="auto">
-<img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/Screenshot_2023_0227_085406.jpg" width="300px" height="auto">
-<img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/Screenshot_2023_0227_085415.jpg" width="300px" height="auto">
-<img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/Screenshot_2023_0227_085424.jpg" width="300px" height="auto">
-  </p
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/Screenshot_2023_0227_085326.jpg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/Screenshot_2023_0227_085343.jpg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/Screenshot_2023_0227_085406.jpg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/Screenshot_2023_0227_085415.jpg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/Screenshot_2023_0227_085424.jpg" width="300px" style="padding: 10px" height="auto">
+</p
 
 ## Note
 This app is currently in under production phase. Currently, I am working on the development of its stable version.
