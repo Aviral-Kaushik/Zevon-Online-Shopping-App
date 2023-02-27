@@ -9,6 +9,9 @@ In this application, I have also implemented animation for better user experienc
 
 In this application, a user can apply for becoming a seller and after becoming a selller the user can sell its own product on Zevon.
 
+## Screenshots
+
+![Home Page](https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/Screenshot_2023_0227_085326.jpg)
 
 ## Note
 This app is currently in under production phase. Currently, I am working on the development of its stable version.
