@@ -1,5 +1,14 @@
 # Zevon-Online-Shopping-App
-Zevon is an E-commerce platform for shopping. This Application includes all the features that needs for an E-commerce application. But Zevon includes more features than any existing famous E-commerce platform.
+Zevon is an E-commerce platform for shopping. This Application includes all the features that needs for an E-commerce application.
+
+In this application, I have used firebase realtime database for handling the user data and used firebase cloud storage for storing images and videos of the user.
+
+I have used Kotlin as a backend langauage for developing this applicationa and used XML for making the UI of this application.
+
+In this application, I have also implemented animation for better user experience.
+
+In this application, a user can apply for becoming a seller and after becoming a selller the user can sell its own product on Zevon.
+
 
 ## Note
 This app is currently in under production phase. Currently, I am working on the development of its stable version.
