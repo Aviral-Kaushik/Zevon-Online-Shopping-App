@@ -12,7 +12,7 @@ In this application, a user can apply for becoming a seller and after becoming a
 ## Screenshots
 
 <div style="display: flex; justify-content: center;">
-        <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/Screenshot_2023_0227_085326.jpg" width="200px" height="500px">
+        <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/Screenshot_2023_0227_085326.jpg" width="500px" height="auto">
 </div>
 
 ## Note
