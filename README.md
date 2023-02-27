@@ -11,7 +11,7 @@ In this application, a user can apply for becoming a seller and after becoming a
 
 ## Screenshots
 
-![Home Page](https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/Screenshot_2023_0227_085326.jpg)
+<img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/Screenshot_2023_0227_085326.jpg" width="200px" height="500px">
 
 ## Note
 This app is currently in under production phase. Currently, I am working on the development of its stable version.
