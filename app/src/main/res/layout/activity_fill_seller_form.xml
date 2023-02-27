@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SellerActivities.FillSellerFormActivity">
+
+    <include layout="@layout/layout_stepview" />
+
+    <ScrollView
+        android:id="@+id/scroll_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="75dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <LinearLayout
+            android:id="@+id/liner_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/seller_name"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginEnd="32dp"
+                android:background="@drawable/login_text_background"
+                android:drawableStart="@drawable/ic_person"
+                android:ems="10"
+                android:hint="@string/enter_your_name_as_per_aadhar_card"
+                android:inputType="textPersonName"
+                android:paddingStart="12dp"
+                android:paddingEnd="18dp"
+                android:textAlignment="center"
+                android:fontFamily="@font/hankengrotesk"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:ignore="Autofill" />
+
+            <EditText
+                android:id="@+id/seller_company_name"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginEnd="32dp"
+                android:background="@drawable/login_text_background"
+                android:drawableStart="@drawable/ic_company"
+                android:ems="10"
+                android:fontFamily="@font/hankengrotesk"
+                android:hint="@string/enter_your_company_name"
+                android:inputType="textPersonName"
+                android:paddingStart="12dp"
+                android:paddingEnd="18dp"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:ignore="Autofill" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:orientation="horizontal">
+
+                <com.hbb20.CountryCodePicker
+                    android:id="@+id/seller_country"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="32dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginEnd="32dp"
+                    app:ccpDialog_textColor="@color/black"
+                    app:ccp_arrowColor="@color/black"
+                    app:ccp_contentColor="@color/black"
+                    app:ccp_flagBorderColor="@color/black"
+                    app:ccp_showFullName="false"
+                    app:ccp_showNameCode="false"
+                    app:ccp_showPhoneCode="true" />
+
+                <EditText
+                    android:id="@+id/seller_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginEnd="32dp"
+                    android:background="@drawable/login_text_background"
+                    android:drawableStart="@drawable/ic_phone"
+                    android:ems="10"
+                    android:fontFamily="@font/hankengrotesk"
+                    android:hint="@string/contact_number"
+                    android:inputType="phone"
+                    android:paddingStart="12dp"
+                    android:paddingEnd="18dp"
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    tools:ignore="Autofill" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/seller_pan"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginEnd="32dp"
+                android:background="@drawable/login_text_background"
+                android:drawableStart="@drawable/ic_pan"
+                android:ems="10"
+                android:fontFamily="@font/hankengrotesk"
+                android:hint="@string/enter_your_pan_card_name"
+                android:inputType="textPersonName"
+                android:paddingStart="12dp"
+                android:paddingEnd="18dp"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:ignore="Autofill" />
+
+            <EditText
+                android:id="@+id/seller_gstin"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginEnd="32dp"
+                android:background="@drawable/login_text_background"
+                android:drawableStart="@drawable/ic_gstin"
+                android:ems="10"
+                android:fontFamily="@font/hankengrotesk"
+                android:hint="@string/enter_your_gstin_number"
+                android:inputType="textPersonName"
+                android:paddingStart="12dp"
+                android:paddingEnd="18dp"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:ignore="Autofill" />
+
+            <EditText
+                android:id="@+id/seller_adhar"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="32dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginBottom="32dp"
+                android:background="@drawable/login_text_background"
+                android:drawableStart="@drawable/ic_aadhar"
+                android:ems="10"
+                android:fontFamily="@font/hankengrotesk"
+                android:hint="@string/enter_your_aadhar_name"
+                android:inputType="textPersonName"
+                android:paddingStart="12dp"
+                android:paddingEnd="18dp"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:ignore="Autofill" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_blue_background"
+        android:text="@string/next"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textAllCaps="false"
+        android:padding="12dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SellerActivities.UploadDocumentsActivity">
+
+    <include layout="@layout/layout_stepview"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/upload_aadhar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/product_buuton_background"
+        android:textAllCaps="false"
+        android:textStyle="normal"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:text="@string/upload_aadhar"
+        android:fontFamily="@font/hankengrotesk"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/step_view"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="100dp"
+        android:drawableStart="@drawable/ic_review"
+        android:drawablePadding="5dp"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp"
+        android:layout_marginBottom="15dp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/upload_pan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/product_buuton_background"
+        android:textAllCaps="false"
+        android:textStyle="normal"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:text="@string/upload_pan"
+        android:fontFamily="@font/hankengrotesk"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/upload_aadhar"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="25dp"
+        android:drawableStart="@drawable/ic_review"
+        android:drawablePadding="5dp"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp"
+        android:layout_marginBottom="15dp" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/upload_gstin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/product_buuton_background"
+        android:textAllCaps="false"
+        android:textStyle="normal"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:text="@string/upload_gstin"
+        android:fontFamily="@font/hankengrotesk"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/upload_pan"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="25dp"
+        android:drawableStart="@drawable/ic_review"
+        android:drawablePadding="5dp"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp"
+        android:layout_marginBottom="15dp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/upload_documents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/product_buuton_background"
+        android:textAllCaps="false"
+        android:textStyle="normal"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:text="@string/upload_documents"
+        android:fontFamily="@font/hankengrotesk"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/upload_gstin"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="25dp"
+        android:drawableStart="@drawable/ic_review"
+        android:drawablePadding="5dp"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp"
+        android:layout_marginBottom="15dp" />
+
+    <ProgressBar
+        android:id="@+id/upload_documents_progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

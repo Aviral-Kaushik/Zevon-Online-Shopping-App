@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "524571806848",
+    "firebase_url": "https://zevon-3cd72-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "zevon-3cd72",
+    "storage_bucket": "zevon-3cd72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524571806848:android:e7b15a88faa76cf687aa65",
+        "android_client_info": {
+          "package_name": "com.aviral.zevon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524571806848-ijm5t2cjvveoul8vhn0raa8sv0g25n50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeB8YqKcGs1FXKbs-K3mmbTPElawicOOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524571806848-ijm5t2cjvveoul8vhn0raa8sv0g25n50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

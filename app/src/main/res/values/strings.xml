@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">Zevon</string>
+    <string name="welcome_to_zevon_online_store_of_everything_you_need">Welcome to Zevon - Online Store of everything you need</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="zevon_name">Zevon.</string>
+    <string name="username">Username or Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="google_sign_in">Google Sign In</string>
+    <string name="twitter_sign_in">Twitter Sign In</string>
+    <string name="facebook_sign_in">Facebook Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="join_zevon">Join Zevon.</string>
+    <string name="userid">UserID</string>
+    <string name="email">Email</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="settings">Settings</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="name">Name</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="categories">Categories</string>
+    <string name="featured_brands">Featured Brands</string>
+    <string name="brand_photo">Brand Photo</string>
+    <string name="item_image">item image</string>
+    <string name="item_description">Item Description</string>
+    <string name="item_price">Item Price</string>
+    <string name="smartphones">Smartphones</string>
+    <string name="electronics">Electronics</string>
+    <string name="wearables">Wearables</string>
+    <string name="accessories">Accessories</string>
+    <string name="beauty_products">Beauty Products</string>
+    <string name="sports">Sports</string>
+    <string name="fitness_products">Fitness Products</string>
+    <string name="games">Games</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="software">Softwares</string>
+    <string name="your_orders">Your Orders</string>
+    <string name="profile_settings">Profile Settings</string>
+    <string name="join_zevon_as_a_seller">Join Zevon as a Seller</string>
+    <string name="more_things_to_buy">More products for checking out</string>
+    <string name="settings_item_title">settings_item_title</string>
+    <string name="aviral_email">aviralkaushik0007@gmail.com</string>
+    <string name="avichal_email">avichalkaushik0007@gmail.com</string>
+    <string name="aviral_kaushik">Aviral Kaushik</string>
+    <string name="aviral_description">Android + Ios \n App Developer</string>
+    <string name="avichal_description">Full Stack Web Developer</string>
+    <string name="avichal_kaushik">Avichal Kaushik</string>
+    <string name="android_skills">Mobile Development Skills</string>
+    <string name="Web_skills">Web Development Skills</string>
+    <string name="web_languages">HTML5, CSS, Javascript, Bootstrap, Tailwind, Php, Node JS, Angular JS, React JS, Next Js, Django, Mysql, MongoDB, Firebase and PostgresSql.</string>
+    <string name="android_lang">Kotlin, Java, React Native, Dart, Flutter, Android Development with Android Studio, Ios Native Development with Android Studio and Swift.</string>
+    <string name="official_website">Official Website</string>
+    <string name="aviral_official_website">http://aviralkaushik.epizy.com</string>
+    <string name="developer">Developer</string>
+    <string name="i_accept">I accept</string>
+    <string name="get_started">Get Started</string>
+    <string name="start_selling_with_us_in_just_few_steps">Start selling with us in just few steps</string>
+    <string name="seller_s_agreement">Seller\'s Agreement</string>
+    <string name="terms_and_condition">Terms and Condition</string>
+    <string name="next">Submit Form &amp; Next</string>
+    <string name="enter_your_aadhar_name">Enter your Aadhar name</string>
+    <string name="enter_your_gstin_number">Enter your GSTIN Number</string>
+    <string name="enter_your_pan_card_name">Enter your PAN card name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="enter_your_company_name">Enter your company name</string>
+    <string name="enter_your_name_as_per_aadhar_card">Enter your Name (As per Aadhar Card)</string>
+    <string name="rs">Rs</string>
+    <string name="dummy_price">12000</string>
+    <string name="price_successor">/-</string>
+    <string name="dummy_reviews_count">24 reviews</string>
+    <string name="product_minus">-</string>
+    <string name="dummy_product_quantity">1</string>
+    <string name="product_quantity_increment">+</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="see_all_reviews">See All Reviews</string>
+    <string name="upload_aadhar">Upload Aadhar</string>
+    <string name="upload_pan">Upload Pan</string>
+    <string name="upload_gstin">Upload GSTIN</string>
+    <string name="upload_documents">Upload Documents</string>
+    <string name="sellers">Sellers</string>
+    <string name="seller_panel">Seller Panel</string>
+    <string name="hello_user">Hello User.</string>
+    <string name="welcome_to_seller_panel">Welcome to Seller Panel</string>
+    <string name="seller">Seller</string>
+    <string name="add_a_product">Add A Product</string>
+    <string name="product_title">Product Title</string>
+    <string name="stock">Stock</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_description">Product Description</string>
+    <string name="choose_images">Choose Images</string>
+    <string name="create_product">Create Product</string>
+    <string name="select_category">Select Category</string>
+    <string name="product">Product</string>
+    <string name="product_uploaded">Product Uploaded</string>
+    <string name="please_wait_while_we_are_uploading_your_product">Please wait</string>
+    <string name="your_product_uploaded_successful">Product Uploaded Successful</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="view_product">View Product</string>
+    <string name="product_update">product_update</string>
+    <string name="update_product">Update Product</string>
+    <string name="product_updated">Product Updated</string>
+    <string name="product_uploaded_successful">Product Updated Successful</string>
+    <string-array name="product_category">
+        <item>Smartphones</item>
+        <item>Electronics</item>
+        <item>Wearable</item>
+        <item>Beauty</item>
+        <item>Kitchen</item>
+        <item>Laptop</item>
+        <item>Accessories</item>
+        <item>Sports</item>
+        <item>Fitness</item>
+        <item>Games</item>
+        <item>Software</item>
+    </string-array>
+</resources>
