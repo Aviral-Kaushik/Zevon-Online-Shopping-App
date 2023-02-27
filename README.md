@@ -9,6 +9,8 @@ In this application, I have also implemented animation for better user experienc
 
 In this application, a user can apply for becoming a seller and after becoming a selller the user can sell its own product on Zevon.
 
+In this application user can rate and write is views regrading an conceren product.
+
 ## Screenshots
 
 <p>
