@@ -24,5 +24,6 @@ This app is currently in under production phase. Currently, I am working on the 
 
 ## Developer Links
 
+**Aviral Kaushik :-- [Official Website](http://aviralkaushik.epizy.com/)**
 **Aviral Kaushik :-- [Instagram](https://www.instagram.com/aviral_3101/)**
 **Aviral Kaushik :-- [Facebook](https://www.facebook.com/aviral.kaushik.16)**
