@@ -14,11 +14,13 @@ In this application user can rate and write is views regrading a product concern
 ## Screenshots
 
 <p>
-  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/Screenshot_2023_0227_085326.jpg" width="300px" style="padding: 10px" height="auto">
-  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/Screenshot_2023_0227_085343.jpg" width="300px" style="padding: 10px" height="auto">
-  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/Screenshot_2023_0227_085406.jpg" width="300px" style="padding: 10px" height="auto">
-  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/Screenshot_2023_0227_085415.jpg" width="300px" style="padding: 10px" height="auto">
-  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/Screenshot_2023_0227_085424.jpg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image1.jpeg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/raw/main/screenshots/image2.jpeg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image3.jpeg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image4.jpeg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image5.jpeg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image6.jpeg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image7.jpeg" width="300px" style="padding: 10px" height="auto">
 </p>
 
 ## Note
