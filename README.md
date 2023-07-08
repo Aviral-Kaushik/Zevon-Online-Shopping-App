@@ -1,15 +1,15 @@
 # Zevon-Online-Shopping-App
-Zevon is an E-commerce platform for shopping. This Application includes all the features that needs for an E-commerce application.
+Zevon is an E-commerce platform for shopping. This Application includes all the features that need for an E-commerce application.
 
-In this application, I have used firebase realtime database for handling the user data and used firebase cloud storage for storing images and videos of the user.
+In this application, I have used Firebase realtime database for handling the user data and used Firebase cloud storage for storing images and videos of the user.
 
-I have used Kotlin as a backend langauage for developing this applicationa and used XML for making the UI of this application.
+I have used Kotlin as a backend language for developing this application and used XML for making the UI of this application.
 
-In this application, I have also implemented animation for better user experience.
+In this application, I have also implemented animation for a better user experience.
 
-In this application, a user can apply for becoming a seller and after becoming a selller the user can sell its own product on Zevon.
+In this application, a user can apply for becoming a seller and after becoming a seller the user can sell their own product on Zevon.
 
-In this application user can rate and write is views regrading a product concern.
+In this application users can rate and write is views regarding a product concern.
 
 ## Screenshots
 
@@ -21,6 +21,10 @@ In this application user can rate and write is views regrading a product concern
   <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image5.jpeg" width="300px" style="padding: 10px" height="auto">
   <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image6.jpeg" width="300px" style="padding: 10px" height="auto">
   <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image7.jpeg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image8.jpeg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image9.jpeg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image10.jpeg" width="300px" style="padding: 10px" height="auto">
+  <img src="https://github.com/Aviral-Kaushik/Zevon-Online-Shopping-App/blob/main/screenshots/image11.jpeg" width="300px" style="padding: 10px" height="auto">
 </p>
 
 ## Note
